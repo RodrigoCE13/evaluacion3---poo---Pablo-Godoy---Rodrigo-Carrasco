@@ -1,0 +1,6 @@
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\DatosLibrary\bin\Debug\DatosLibrary.dll
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\DatosLibrary\bin\Debug\DatosLibrary.pdb
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\DatosLibrary\obj\Debug\DatosLibrary.csprojAssemblyReference.cache
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\DatosLibrary\obj\Debug\DatosLibrary.csproj.CoreCompileInputs.cache
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\DatosLibrary\obj\Debug\DatosLibrary.dll
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\DatosLibrary\obj\Debug\DatosLibrary.pdb

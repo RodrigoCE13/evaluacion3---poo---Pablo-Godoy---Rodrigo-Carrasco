@@ -1,0 +1,18 @@
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\OtecLibrary\bin\Debug\OtecLibrary.dll
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\OtecLibrary\bin\Debug\OtecLibrary.pdb
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\OtecLibrary\bin\Debug\DatosLibrary.dll
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\OtecLibrary\bin\Debug\DatosLibrary.pdb
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\OtecLibrary\obj\Debug\OtecLibrary.csprojAssemblyReference.cache
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\OtecLibrary\obj\Debug\OtecLibrary.csproj.CoreCompileInputs.cache
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\OtecLibrary\obj\Debug\OtecLibrary.csproj.CopyComplete
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\OtecLibrary\obj\Debug\OtecLibrary.dll
+D:\Mis Cosas\Virginio Gomez\2021\Semestre 2\Lenguaje de Programación Orientada Objetos\Cer3POO\OtecLibrary\obj\Debug\OtecLibrary.pdb
+C:\Users\rodri\Desktop\Cer3POO\OtecLibrary\bin\Debug\OtecLibrary.dll
+C:\Users\rodri\Desktop\Cer3POO\OtecLibrary\bin\Debug\OtecLibrary.pdb
+C:\Users\rodri\Desktop\Cer3POO\OtecLibrary\bin\Debug\DatosLibrary.dll
+C:\Users\rodri\Desktop\Cer3POO\OtecLibrary\bin\Debug\DatosLibrary.pdb
+C:\Users\rodri\Desktop\Cer3POO\OtecLibrary\obj\Debug\OtecLibrary.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\Cer3POO\OtecLibrary\obj\Debug\OtecLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Cer3POO\OtecLibrary\obj\Debug\OtecLibrary.csproj.CopyComplete
+C:\Users\rodri\Desktop\Cer3POO\OtecLibrary\obj\Debug\OtecLibrary.dll
+C:\Users\rodri\Desktop\Cer3POO\OtecLibrary\obj\Debug\OtecLibrary.pdb
